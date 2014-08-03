@@ -1,0 +1,6 @@
+c:\users\eric\documents\visual studio 2012\Projects\OOPOptioanlArgs\OOPOptioanlArgs\bin\Debug\OOPOptioanlArgs.exe.config
+c:\users\eric\documents\visual studio 2012\Projects\OOPOptioanlArgs\OOPOptioanlArgs\obj\Debug\OOPOptioanlArgs.csprojResolveAssemblyReference.cache
+c:\users\eric\documents\visual studio 2012\Projects\OOPOptioanlArgs\OOPOptioanlArgs\bin\Debug\OOPOptioanlArgs.exe
+c:\users\eric\documents\visual studio 2012\Projects\OOPOptioanlArgs\OOPOptioanlArgs\bin\Debug\OOPOptioanlArgs.pdb
+c:\users\eric\documents\visual studio 2012\Projects\OOPOptioanlArgs\OOPOptioanlArgs\obj\Debug\OOPOptioanlArgs.exe
+c:\users\eric\documents\visual studio 2012\Projects\OOPOptioanlArgs\OOPOptioanlArgs\obj\Debug\OOPOptioanlArgs.pdb

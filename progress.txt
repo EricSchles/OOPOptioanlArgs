@@ -1,0 +1,6 @@
+name:Alpha
+age:27
+bio:Alpha comes from nowhere
+weapon:sword of time
+weapon_power:5
+hp:2
